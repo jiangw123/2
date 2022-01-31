@@ -11,3 +11,6 @@ https://iptv.jmsooo.com/live/cctv4/index.m3u8
 https://iptv.jmsooo.com/live/cctv7/index.m3u8
 #EXTINF:-1,CCTV-14HD
 https://iptv.jmsooo.com/live/cctv14/index.m3u8
+
+#EXTINF:-1,cctv8 8k
+https://iptv.jmsooo.com/live/cctv8k/index.m3u8
