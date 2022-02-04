@@ -1,6 +1,4 @@
-#EXTM3U
-#EXTINF:-1,北京-8KHD
-http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
+
 #EXTM3U
 #EXTINF:-1,天津卫视8M
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227407/index.m3u8
