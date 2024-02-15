@@ -1,3 +1,10 @@
+
+#EXTINF:-1,民视
+p2p://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
+#EXTINF:-1,台视
+p2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+#EXTINF:-1,大爱
+p2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
 #EXTINF:-1,北京联通cctv4k
 http://111.201.164.200:10000/rtp/239.3.1.245:2000
 
